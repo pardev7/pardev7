@@ -47,8 +47,8 @@
 ## 📫 Let's Connect
 
 - 📧 Email: pardev7@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/vaibhav-parde-5466b7198/])
-- 📄 [View My Resume]([https://github.com/vaibhavparde/pardev7/blob/main/Vaibhav_P_Senior_DevOps.pdf])
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-parde-5466b7198/)
+- 📄 [View My Resume](https://github.com/vaibhavparde/pardev7/blob/main/Vaibhav_P_Senior_DevOps.pdf)
 
 ---
 
